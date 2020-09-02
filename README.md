@@ -32,7 +32,7 @@ In order to achieve the goal, there are several steps involved.
 
 ### Self-Evaluation 
 
-![d3](https://github.com/haganmao/Gesture-recognition---MachineLearning/blob/master/Picture%203.png "d3") 
+![d3](https://github.com/haganmao/Gesture-recognition---MachineLearning/blob/master/Pic3.png"d3") 
 
 <br>
 <br>
@@ -41,7 +41,6 @@ In order to achieve the goal, there are several steps involved.
 
 ![d4](https://github.com/haganmao/Gesture-recognition---MachineLearning/blob/master/Picture%204.png "d4") 
 
-### This resulted in a 29/50 score.
 
 
 
