@@ -39,7 +39,8 @@ In order to achieve the goal, there are several steps involved.
 <br>
 
 
-![d4](https://github.com/haganmao/Gesture-recognition---MachineLearning/blob/master/Picture%204.png"d4") 
+![d4](https://github.com/haganmao/Gesture-recognition---MachineLearning/blob/master/Picture%204.png "d4") 
+
 ### This resulted in a 29/50 score.
 
 
@@ -83,7 +84,7 @@ In order to achieve the goal, there are several steps involved.
 <br>
 
 
-`get the matrix based on y_true,y_predict, and check the result
+`get the matrix based on y_true,y_predict, and print the matrices
 ```python
   #compute the distance with each of the training sample
 
