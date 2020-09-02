@@ -30,8 +30,7 @@ In order to achieve the goal, there are several steps involved.
 <br>
 <br>
 
-### Self-Evaluation 
-
+### Self-Evaluation with confusion matrix.
 ![d3](https://github.com/haganmao/Gesture-recognition---MachineLearning/blob/master/Pic3.png "d3") 
 
 <br>
